@@ -19,4 +19,14 @@
 
 ## Coding Stats
 <!--START_SECTION:waka-->
+
+```text
+PHP              12 hrs 50 mins  ███████████▒░░░░░░░░░░░░░   45.01 %
+Blade Template   9 hrs 57 mins   ████████▓░░░░░░░░░░░░░░░░   34.90 %
+Vue.js           5 hrs 16 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.50 %
+Bash             11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
+JavaScript       6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+Other            4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+```
+
 <!--END_SECTION:waka-->
