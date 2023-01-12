@@ -33,10 +33,10 @@
   </a>
 </div>
 
-###
+<!-- ###
 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/dwiki48/dwiki48/blob/output/snake.svg" alt="Snake animation" />
 
-###
+### -->
